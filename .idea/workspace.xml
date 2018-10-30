@@ -5,8 +5,6 @@
       <change beforePath="$PROJECT_DIR$/../CS5551_team_13-2_labassignments/Lab 1/Documentation/39584208-vacation-wallpapers.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../CS5551_team_13-2_labassignments/Sample/Documentation/39584208-vacation-wallpapers.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../CS5551_team_13-2_labassignments/Sample/Source/Sample.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home/controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/home/controller.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -181,7 +179,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1440" />
@@ -246,15 +244,15 @@
       <workItem from="1540779280352" duration="1421000" />
       <workItem from="1540840827944" duration="1088000" />
       <workItem from="1540845254001" duration="5577000" />
-      <workItem from="1540862202505" duration="425000" />
+      <workItem from="1540862202505" duration="831000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12919000" />
+    <option name="totallyTimeSpent" value="13325000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
